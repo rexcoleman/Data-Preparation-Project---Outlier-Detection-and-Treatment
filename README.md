@@ -161,6 +161,7 @@ Visualizations are provided to compare the dataset before and after outlier trea
 Outlier management is an essential aspect of data preparation that requires careful consideration. By following a structured approach and using appropriate techniques, data scientists can enhance the reliability and accuracy of their models.
 
 ## 8. References
+- [Original Kaggle Notebook by @nareshbhat](https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer)
 - Provost, Foster, and Tom Fawcett. "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking."
 - Siegel, Eric. "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die."
 - Davenport, Thomas H., and Jeanne G. Harris. "Competing on Analytics: The New Science of Winning."

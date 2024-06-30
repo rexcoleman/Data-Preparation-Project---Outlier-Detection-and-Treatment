@@ -166,5 +166,5 @@ Outlier management is an essential aspect of data preparation that requires care
 - Davenport, Thomas H., and Jeanne G. Harris. "Competing on Analytics: The New Science of Winning."
 - Christensen, Clayton M. "The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business."
 - [Original Kaggle Notebook by @nareshbhat](https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer)
-- [Kaggle Pima Indians Dataset]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [Kaggle Pima Indians Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
